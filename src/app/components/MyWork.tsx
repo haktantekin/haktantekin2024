@@ -23,7 +23,7 @@ const MyWork = () => {
   const workExperiences: WorkExperience[] = [
     {
       id: 1,
-      company: "Hayatfinans",
+      company: "Hayat Finans",
       position: "Senior Frontend Developer",
       duration: "05.2024 - halen",
       description: "Finans sektöründe faaliyet gösteren Hayatfinans.com'da çalışıyorum.",
