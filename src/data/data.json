@@ -1,0 +1,50 @@
+{
+  "sections": {
+    "home": {
+      "title": "Hoş Geldiniz",
+      "description": "Bu Next.js uygulaması TypeScript, Tailwind CSS ve modern araçlarla oluşturuldu."
+    },
+    "about": {
+      "title": "Hakkımızda",
+      "description": "Biz modern web teknolojileri ile çalışan bir ekibiz."
+    },
+    "experience": {
+      "title": "Deneyimler",
+      "description": "Profesyonel iş deneyimlerim ve yeteneklerim."
+    },
+    "portfolio": {
+      "title": "Portfolyo",
+      "description": "Tamamladığım projeler ve çalışmalarım."
+    },
+    "contact": {
+      "title": "İletişim",
+      "description": "Benimle iletişime geçin."
+    }
+  },
+  "navigation": [
+    {
+      "id": "home",
+      "label": "Ana Sayfa"
+    },
+    {
+      "id": "about",
+      "label": "Hakkımda"
+    },
+    {
+      "id": "experience",
+      "label": "Deneyimlerim"
+    },
+    {
+      "id": "contact",
+      "label": "İletişim"
+    }
+  ],
+  "social": {
+    "github": "https://github.com/haktantekin",
+    "linkedin": "https://www.linkedin.com/in/haktantekin/",
+    "instagram": "https://www.instagram.com/nat.kah/",
+    "email": "me@haktantekin.com",
+    "whatsapp": "+905399374446",
+    "twitter": "javascript:;"
+  }
+} 
